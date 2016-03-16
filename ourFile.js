@@ -4,4 +4,5 @@ var function1 = function () {
 
 var function2= function () {
 	console.log("I am a car");
+	console.log("I am a bus");
 }
