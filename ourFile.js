@@ -1,6 +1,7 @@
 var function1 = function () {
 	//This is another test
 	//This is the testing git
+	console.log("this is before the others");
 	console.log("I am a jacksparrow");
 	console.log("I am a boat");
 }
