@@ -1,5 +1,5 @@
 var function1 = function () {
-	console.log("I am a pirate");
+	console.log("I am a jacksparrow");
 	console.log("I am a boat");
 }
 
